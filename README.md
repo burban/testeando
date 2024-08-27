@@ -7,7 +7,7 @@
 7. git commit --amend
 8. git checkout -b rama-heroes
 9. git checkout master
-10. git merge segunda-rama
+10. git merge segunda-rama - une las ramas
 11. git branch -d rama-heroes
 12. git push
 13. git commit -am
